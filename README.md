@@ -1,6 +1,8 @@
 README
 ======
 
+MY NEW VERSION
+
 What is Symfony?
 -----------------
 
